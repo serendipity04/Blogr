@@ -395,13 +395,13 @@ footer .wrapper{
         margin-top: 10px;
         width: 80%;
     }
-    .btn{
-        margin-bottom: 20px;
-    }
     .register{
         width: 50%;
         display: flex;
         justify-content: flex-end; 
+    }
+    .btn{
+        margin-bottom: 20px;
     }
     
     .heroSection{
@@ -425,6 +425,7 @@ footer .wrapper{
         display: flex;
         width: 100%;
         height: inherit;
+        align-items: center;
         justify-content: space-between;
         flex-direction: column;
     }
@@ -472,8 +473,6 @@ footer .wrapper{
         height: 400px;
     }
     .sect2ContentBox{
-        position: relative;
-        z-index: 100;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -488,7 +487,7 @@ footer .wrapper{
         display: flex;
         flex-direction: column;
         align-items:center;
-        justify-content:left;
+        justify-content: center;
         width: 100%;
         margin-bottom: 50px;
         padding-top: 0;
