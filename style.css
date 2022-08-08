@@ -395,6 +395,9 @@ footer .wrapper{
         margin-top: 10px;
         width: 80%;
     }
+    .btn{
+        margin-bottom: 20px;
+    }
     .register{
         width: 50%;
         display: flex;
