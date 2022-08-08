@@ -475,6 +475,7 @@ footer .wrapper{
     .sect2ContentBox{
         display: flex;
         flex-direction: column;
+        align-items: center;
         justify-content: space-between;
     }
     .sect2Img{
